@@ -1,0 +1,16 @@
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\ref\VarsAndData.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.AssemblyReference.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
