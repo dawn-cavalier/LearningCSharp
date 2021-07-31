@@ -1,0 +1,17 @@
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.exe
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.deps.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.runtimeconfig.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.runtimeconfig.dev.json
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\ref\Comments.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.pdb
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.csproj.AssemblyReference.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.AssemblyInfoInputs.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.AssemblyInfo.cs
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\ref\Comments.dll
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.pdb
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\obj\Debug\net5.0\Comments.genruntimeconfig.cache
+C:\Users\tjt22\dev\repos\LearningCSharp\Start\Overview\Comments\bin\Debug\net5.0\Comments.xml
